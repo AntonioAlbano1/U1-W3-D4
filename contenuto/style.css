@@ -1,0 +1,31 @@
+body {
+   
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #FAF7F2;
+}
+
+h1 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+#bottone {
+    text-align: center;
+}
+
+#bottone button {
+    color: forestgreen;
+    border-radius: 4px;
+    background-color: white;
+    text-align: center;
+}
+.numeri {
+    box-sizing: border-box;
+ width: 400px;
+ height: 400px;
+ padding: 10px;
+ border: 5px solid #FAF7F2;
+ background-color: #FAF7F2;
+ color: white;
+ 
+}
